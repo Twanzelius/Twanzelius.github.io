@@ -1,56 +1,35 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "👋 Hi, I'm Toine! (Pronounced like Juan, but with a T 😉)"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+💁 I am a postdoctoral researcher at the [KU Leuven Voting & Democracy Research Group (in Dutch)](https://soc.kuleuven.be/afdeling-politieke-wetenschappen/verkiezingen-en-democratie) and a part-time lecturer at the [Dublin City University School of Law and Government](https://www.dcu.ie/lawandgovernment) where I teach two (very interesting) undergraduate modules in the Economy, Politcs and Law program. 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+🔬 My research focuses mainly on how political elites (read: parties and their politicians) behave in direct democratic contexts, and how this affects voters. As such, I am interested in the wider fields of political communication, political finance, party behavior, and electoral behavior. Beyond that, I also dabble in and have published on comparative and European politics, as well as interest representation.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+🤔 Currently, I am mainly looking into how party rhetoric in referendum campaigns affects affective polarization among citizens towards parties and their leaders.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+🌌 I am a quants person and work with the R programming language, but also have experience in qualitative methods and mixed-methods approaches. I am also a firm believer in open science practices and always strive to make my data, code and research as widely available as possible.
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+💙 I love baseball (go Phils ⚾), football (COYG ⚽), metal, and my three cats! 😸
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+# Selected Experience
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+## Research
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+📓 You can find my work in Party Politics (soon!), [Politics and Governance](https://doi.org/10.17645/pag.9229), [Politics](https://doi.org/10.1177/02633957241303708?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle), [the European Journal of Higher Education](https://doi.org/10.1080/21568235.2022.2105372?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle), and the [Journal of Contemporary European Studies](https://doi.org/10.1080/14782804.2024.2448257), among others. I have also published two book chapters on European politics.
 
-**Markdown generator**
+🔢 I also contributed to a project examining the concurrent 2024 elections in Belgium for the KU Leuven [Public Governance Institute](https://soc.kuleuven.be/io/onderzoek/verkiezingen#). 
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+## Outreach
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+📢  I have presented my work at 16 major international conferences organised by APSA, IPSA, EPSA, ECPR and others in multiple European cities, as well as Los Angeles (APSA 2023) and Seoul (IPSA 2025). I also chaired two panels, and acted as paper discussant over ten times.
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
+✒️ I have written six opinion pieces/blog posts in national and international mediums, such as [De Standaard (paywall, in Dutch)](https://www.standaard.be/opinies/referenda-bezint-eer-gij-begint/40752761.html) and [Knack (in Dutch)](https://www.knack.be/a/toine-paulissen/) (two of the largest news publications in Belgium), the London School of Economics' blog on [European Politics and Policy](https://blogs.lse.ac.uk/europpblog/2022/09/02/how-higher-education-institutions-seek-to-influence-eu-policymaking/), and [UK in a Changing Europe](https://ukandeu.ac.uk/indyref2-rejoin-eu-consider-first-reforming-regulations-on-referendum-campaign-finance/)'s blog. These focused both on outreach of my research as well as commentary regarding current affairs on referendums and politics
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+# Feel free to reach out if you want to discuss my research, or my hobbies! 😁
