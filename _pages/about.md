@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Hi, I'm Toine! (Pronounced like Juan, but with a T 😉)"
+title: "👋 Hi, I'm Toine!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,7 +16,7 @@ redirect_from:
 
 🌌 I am a quants person and work with the R programming language, but also have experience in qualitative methods and mixed-methods approaches. I am also a firm believer in open science practices and always strive to make my data, code and research as widely available as possible.
 
-💙 I love baseball (go Phils ⚾), football (COYG ⚽), metal, and my three cats! 😸
+💙 In my spare time, I enjoy homelabbing, baseball (go Phils ⚾), football (COYG ⚽), and metal.
 
 # Selected Experience
 
