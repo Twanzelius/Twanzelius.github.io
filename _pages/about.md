@@ -22,7 +22,7 @@ redirect_from:
 
 ## Research
 
-📓 You can find my work in Party Politics (soon!), [Politics and Governance](https://doi.org/10.17645/pag.9229), [Politics](https://doi.org/10.1177/02633957241303708?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle), [the European Journal of Higher Education](https://doi.org/10.1080/21568235.2022.2105372?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle), and the [Journal of Contemporary European Studies](https://doi.org/10.1080/14782804.2024.2448257), among others. I have also published two book chapters on European politics.
+📓 You can find my work in Party Politics, European Politicak Science Review (soon!), [Politics and Governance](https://doi.org/10.17645/pag.9229), [Politics](https://doi.org/10.1177/02633957241303708?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle), [the European Journal of Higher Education](https://doi.org/10.1080/21568235.2022.2105372?urlappend=%3Futm_source%3Dresearchgate.net%26utm_medium%3Darticle), and the [Journal of Contemporary European Studies](https://doi.org/10.1080/14782804.2024.2448257), among others. I have also published two book chapters on European politics.
 
 🔢 I also contributed to a project examining the concurrent 2024 elections in Belgium for the KU Leuven [Public Governance Institute](https://soc.kuleuven.be/io/onderzoek/verkiezingen#). 
 
