@@ -1,9 +1,9 @@
 ---
-title: "Teaching Assistant @ KU Leuven Public Governance Institute"
+title: "Teaching Assistant"
 collection: teaching
-# type: "Position"
+type: "Assistance"
 permalink: /teaching/teaching-assistant
-# venue: 
+venue: "KU Leuven Public Governance Institute 
 date: 2021-01-01
 location: "Leuven, Belgium"
 ---
