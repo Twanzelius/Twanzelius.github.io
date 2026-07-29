@@ -1,3 +1,45 @@
 <script type="module" src="{{ base_path }}/assets/js/main.min.js"></script>
 
+<!-- Fallback theme toggle initializer: ensures theme toggle works even if module bundle fails -->
+<script>
+	(function () {
+		const icon = document.getElementById('theme-icon');
+		const toggleEl = document.getElementById('theme-toggle');
+
+		function applyTheme(t) {
+			if (t === 'dark') {
+				document.documentElement.setAttribute('data-theme', 'dark');
+				if (icon) { icon.classList.remove('fa-sun'); icon.classList.add('fa-moon'); }
+			} else {
+				document.documentElement.removeAttribute('data-theme');
+				if (icon) { icon.classList.remove('fa-moon'); icon.classList.add('fa-sun'); }
+			}
+		}
+
+		// Initialize from localStorage or system preference
+		try {
+			const stored = localStorage.getItem('theme');
+			if (stored === 'dark' || stored === 'light') {
+				applyTheme(stored);
+			} else {
+				const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+				applyTheme(prefersDark ? 'dark' : 'light');
+			}
+		} catch (e) {
+			// ignore localStorage errors
+		}
+
+		// Attach click handler
+		if (toggleEl) {
+			toggleEl.addEventListener('click', function (ev) {
+				ev.preventDefault();
+				const current = document.documentElement.getAttribute('data-theme');
+				const next = current === 'dark' ? 'light' : 'dark';
+				try { localStorage.setItem('theme', next); } catch (e) {}
+				applyTheme(next);
+			});
+		}
+	})();
+</script>
+
 {% include analytics.html %}
