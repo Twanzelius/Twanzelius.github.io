@@ -3,10 +3,9 @@
 <!-- Fallback theme toggle initializer: ensures theme toggle works even if module bundle fails -->
 <script>
 	(function () {
-		const icon = document.getElementById('theme-icon');
-		const toggleEl = document.getElementById('theme-toggle');
-
 		function applyTheme(t) {
+			const icon = document.getElementById('theme-icon');
+			console.log('[theme] applyTheme:', t);
 			if (t === 'dark') {
 				document.documentElement.setAttribute('data-theme', 'dark');
 				if (icon) { icon.classList.remove('fa-sun'); icon.classList.add('fa-moon'); }
@@ -16,28 +15,44 @@
 			}
 		}
 
-		// Initialize from localStorage or system preference
-		try {
-			const stored = localStorage.getItem('theme');
-			if (stored === 'dark' || stored === 'light') {
-				applyTheme(stored);
-			} else {
-				const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-				applyTheme(prefersDark ? 'dark' : 'light');
-			}
-		} catch (e) {
-			// ignore localStorage errors
+			function initToggle() {
+				console.log('[theme] initToggle');
+			const toggleEl = document.getElementById('theme-toggle');
+			const anchor = toggleEl ? toggleEl.querySelector('a') : null;
+
+			// Initialize from localStorage or system preference
+					try {
+						const stored = localStorage.getItem('theme');
+						console.log('[theme] stored preference:', stored);
+						if (stored === 'dark' || stored === 'light') {
+							applyTheme(stored);
+						} else {
+							const prefersDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+							console.log('[theme] system prefers dark?', prefersDark);
+							applyTheme(prefersDark ? 'dark' : 'light');
+						}
+					} catch (e) {
+						console.warn('[theme] localStorage read failed', e);
+					}
+
+				function doToggle(ev) {
+					if (ev && ev.preventDefault) ev.preventDefault();
+					console.log('[theme] toggle clicked');
+					const current = document.documentElement.getAttribute('data-theme');
+					const next = current === 'dark' ? 'light' : 'dark';
+					console.log('[theme] current -> next', current, next);
+					try { localStorage.setItem('theme', next); } catch (e) { console.warn('[theme] localStorage write failed', e); }
+					applyTheme(next);
+				}
+
+			if (anchor) anchor.addEventListener('click', doToggle);
+			if (toggleEl && toggleEl !== anchor) toggleEl.addEventListener('click', doToggle);
 		}
 
-		// Attach click handler
-		if (toggleEl) {
-			toggleEl.addEventListener('click', function (ev) {
-				ev.preventDefault();
-				const current = document.documentElement.getAttribute('data-theme');
-				const next = current === 'dark' ? 'light' : 'dark';
-				try { localStorage.setItem('theme', next); } catch (e) {}
-				applyTheme(next);
-			});
+		if (document.readyState === 'loading') {
+			document.addEventListener('DOMContentLoaded', initToggle);
+		} else {
+			initToggle();
 		}
 	})();
 </script>
