@@ -1,7 +1,6 @@
 ---
 title: "Teaching Assistant"
 collection: teaching
-type: "Assistance"
 permalink: /teaching/teaching-assistant
 venue: "KU Leuven Public Governance Institute" 
 start_date: 2021-01-01
@@ -9,7 +8,7 @@ end_date: 2022-10-30
 location: "Leuven, Belgium"
 ---
 
-As a teaching assistant at the KU Leuven Public Governance Institute, I provided assistance to a variety of courses within the Political Science programmes (BA & MA) and delivered several Guest Lectures. I also provided supervision as an assessor for X Master thesis students.
+As a teaching assistant at the KU Leuven Public Governance Institute, I provided assistance to a variety of courses within the Political Science programmes (BA & MA) and delivered several Guest Lectures. I also provided supervision as an assessor for 4 MA theses.
 
 Courses Assisted
 ======
