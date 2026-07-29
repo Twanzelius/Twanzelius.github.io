@@ -35,7 +35,9 @@ layout: default
         {% endif %}
         
         {% if page.collection == 'teaching' %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, 
+          <p>
+            {% if page.type %}{{ page.type }}, {% endif %}
+            <i>{{ page.venue }}</i>,
             {% if page.start_date %}
               {{ page.start_date | date: "%Y" }}{% if page.end_date %}&ndash;{{ page.end_date | date: "%Y" }}{% endif %}
             {% elsif page.date %}
