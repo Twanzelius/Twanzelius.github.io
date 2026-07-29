@@ -3,7 +3,7 @@ title: "Teaching Assistant"
 collection: teaching
 type: "Assistance"
 permalink: /teaching/teaching-assistant
-venue: "KU Leuven Public Governance Institute 
+venue: "KU Leuven Public Governance Institute" 
 date: 2021-01-01
 location: "Leuven, Belgium"
 ---
