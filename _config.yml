@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Toine's Homepage"
+title                    : "Toine Paulissen"
 title_separator          : "-"
 name                     : &name "Toine Paulissen"
 description              : &description "Toine Paulissen's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,12 +23,12 @@ repository               : "Twanzelius.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profilepic.jpg"
+  avatar           : "Toine-Paulissen-2-927834581.jpg"
   name             : "Toine Paulissen"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoc & Part-Time Lecturer"
-  location         : "Leuven (BE) & Dublin (IE)"
-  employer         : "KU Leuven | Dublin City University"
+  bio              : "Postdoctoral researcher"
+  location         : "Leuven (BE) & Maastricht (NL)"
+  employer         : "KU Leuven | Maastricht University"
   uri              : # URL
   email            : "toine.paulissen@kuleuven.be" 
 
