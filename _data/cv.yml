@@ -39,23 +39,23 @@ cv:
       - institution: KU Leuven
         location: Leuven, Belgium
         area: Political Science
-        studyType: MSc: Comparative & International Politics
+        studyType: MSc Comparative & International Politics
         start_date: 2017
         end_date: 2020
         score: "Graduated Magna Cum Laude"
         highlights:
-          - Thesis: “‘Bildung’ in Brussel. De organisationele vorm van hoger onderwijsrepresentatie in de Europese Unie” [Bildung in Brussels. The organisational form of higher education lobbying in the European Union]
+          - Thesis: “Bildung in Brussel. De organisationele vorm van hoger onderwijsrepresentatie in de Europese Unie” [Bildung in Brussels. The organisational form of higher education lobbying in the European Union]
           - Supervised by prof. Steven Van Hecke
 
       - institution: KU Leuven
         location: Leuven, Belgium
         area: Literature
-        studyType: MA: Western Literature
+        studyType: MA Western Literature
         start_date: 2015
         end_date: 2017
         score: "Graduated Magna Cum Laude"
         highlights:
-          - Thesis: “‘Engagement in crisis? Een studie van Van den Broecks Terug naar Walden (2009) en Lanoye's Gelukkige Slaven (2013) in het licht van het thema ‘crisis’” [Engagement in crisis? A study of Van den Broeck’s Terug naar Walden (2009) en Lanoye’s Gelukkige Slaven (2013) in the light of the theme ‘crisis’]
+          - Thesis: “Engagement in crisis? Een studie van Van den Broecks Terug naar Walden (2009) en Lanoye's Gelukkige Slaven (2013) in het licht van het thema crisis” [Engagement in crisis? A study of Van den Broecks Terug naar Walden (2009) en Lanoyes Gelukkige Slaven (2013) in the light of the theme crisis]
           - Supervised by prof. Dirk De Geest
 
     Experience:
@@ -104,17 +104,11 @@ cv:
           - Supervised 4 MSc students
 
     Visiting Positions:
-      - company: School of Politics and International Relations (SPIRe), University College Dublin
-        position: Affiliated Scholar, hosted by Prof. Dr. David Farrell
-        location: Dublin, Ireland
-        start_date: November 2024
-        end_date: October 2025
+      - label: "Affiliated Scholar, School of Politics and International Relations (SPIRe), University College Dublin"
+        details: "Hosted by Prof. Dr. David Farrell in Dublin, Ireland (November 2024 – October 2025)."
 
-      - company: Trinity Research in Social Sciences (TRiSS), Trinity College Dublin
-        position: Visiting Scholar, hosted by Prof. Dr. Peter Stone
-        location: Dublin, Ireland
-        start_date: February 2023
-        end_date: May 2023
+      - label: "Visiting Scholar, Trinity Research in Social Sciences (TRiSS), Trinity College Dublin"
+        details: "Hosted by Prof. Dr. Peter Stone in Dublin, Ireland (February 2023 – May 2023)."
 
     Awards:
       - title: Selected for third cohort of the Europaeum Scholars Programme
@@ -133,7 +127,6 @@ cv:
         summary: Thesis prize awarded for the best MA theses in European studies.
 
     Publications:
-      Peer Reviewed Journal Articles:
         - title: What Ends Justify the Means? Explaining Party Campaign Spending in Referendums in Europe
           authors:
           - Toine Paulissen
@@ -158,7 +151,7 @@ cv:
           releaseDate: 2026
           url: https://doi.org/10.1080/07036337.2026.2623429
 
-        - title: Depoliticizing Transnational Cleavage‐Related Issues Through Social Media Advertising: The 2022 Danish Defense Referendum Campaign
+        - title: "Depoliticizing Transnational Cleavage‐Related Issues Through Social Media Advertising: The 2022 Danish Defense Referendum Campaign"
           authors:
           - Toine Paulissen
           - Lien Jansen
@@ -176,7 +169,7 @@ cv:
           releaseDate: 2025
           url: https://doi.org/10.1080/14782804.2024.2448257
 
-        - title: Introducing the RefCFRI: A continuous indicator comparing referendum campaign finance regulation in 143 countries
+        - title: "Introducing the RefCFRI: A continuous indicator comparing referendum campaign finance regulation in 143 countries"
           authors:
           - Toine Paulissen
           - William R. Horncastle
@@ -184,14 +177,14 @@ cv:
           releaseDate: 2024
           url: https://doi.org/10.1177/02633957241303708
 
-        - title: Direct democracy and party behaviour in the Republic of Ireland: a campaign finance perspective.
+        - title: "Direct democracy and party behaviour in the Republic of Ireland: a campaign finance perspective."
           authors:
           - Toine Paulissen
           publisher: Irish Political Studies
           releaseDate: 2024
           url: https://doi.org/10.1080/07907184.2024.2371780
 
-        - title: Referendum campaign financing by political parties: the case of the United Kingdom
+        - title: "Referendum campaign financing by political parties: the case of the United Kingdom"
           authors:
           - Toine Paulissen
           - Bart Maddens
@@ -199,7 +192,7 @@ cv:
           releaseDate: 2023
           url: https://doi.org/10.1080/00323187.2023.2238715
         
-        - title: Individual and collective representation: the organisational form of higher education lobbying in the European Union
+        - title: "Individual and collective representation: the organisational form of higher education lobbying in the European Union"
           authors:
           - Toine Paulissen
           - Bert Fraussen
@@ -208,8 +201,7 @@ cv:
           releaseDate: 2022
           url: https://doi.org/10.1080/21568235.2022.2105372
       
-      Book Chapters:
-        - title: The Life and Death of the Spitzenkandidaten: What Role is Left for European Political Parties
+        - title: "The Life and Death of the Spitzenkandidaten: What Role is Left for European Political Parties"
           authors:
           - Steven Van Hecke
           - Wouter Wolfs
@@ -219,7 +211,7 @@ cv:
           releaseDate: 2023
           url: https://doi.org/10.1007/978-3-031-12338-2_5
 
-        - title: How Covid-19 Hit Brussels and Beyond: The EU’s Crisis Management Tested by a Pandemic
+        - title: "How Covid-19 Hit Brussels and Beyond: The EU’s Crisis Management Tested by a Pandemic"
           authors:
           - Steven Van Hecke
           - Toine Paulissen
@@ -229,15 +221,13 @@ cv:
           releaseDate: 2023
           url: https://doi.org/10.1007/978-3-031-12338-2_18
 
-      Miscellaneous:
-        - title: Summary: What Ends Justify the Means? Explaining Party Campaign Spending in European Referendums
+        - title: "Summary: What Ends Justify the Means? Explaining Party Campaign Spending in European Referendums"
           authors:
           - Toine Paulissen
           publisher: Politics of the Low Countries
           releaseDate: 2025
           url: https://doi.org/10.54195/plc.24497
 
-      Outreach:
         - title: Why direct democracy is also a stage for political parties to fight for attention
           authors:
           - Toine Paulissen
@@ -245,14 +235,14 @@ cv:
           releaseDate: 2026
           url: https://www.swissinfo.ch/eng/global-elections/why-direct-democracy-is-also-a-stage-for-political-parties-to-fight-for-attention/91066008
 
-        - title: Beeldvorming boven beleid: waarom partijen investeren in referendumcampagnes
+        - title: "Beeldvorming boven beleid: waarom partijen investeren in referendumcampagnes"
           authors:
           - Toine Paulissen
-          publisher: KU Leuven Sway: Social Sciences for Society
+          publisher: "KU Leuven Sway: Social Sciences for Society"
           releaseDate: 2025
           url: https://soc.kuleuven.be/sway/verhalen/beeldvorming-boven-beleid-waarom-partijen-investeren-in-referendumcampagnes
 
-        - title: Referendum Moldavië: zelden zal een overwinning zo als eennederlaag hebben aangevoeld
+        - title: "Referendum Moldavië: zelden zal een overwinning zo als eennederlaag hebben aangevoeld"
           authors:
           - Toine Paulissen
           - Steven Van Hecke
@@ -332,17 +322,15 @@ cv:
         issuer: Flanders Training Network for Methodology and Statistics (FLAMES)
         icon: fa-solid fa-database
 
-    Research Funding:
-      - name: PhD Fellowship for Fundamental Research. Grant 1119125N: Referendum Campaign Finance & Political Parties in Europe.
-        summary: 130.000 EUR funding for 4 years of PhD research on referendum campaign finance and political parties in Europe.
-        issuer: Research Foundation Flanders (FWO)
-        start_date: 2022
-        end_date: 2026
+    #Research Funding:
+     # - name: "Research Foundation Flanders (FWO) PhD Fellowship for Fundamental Research. Grant 1119125N: Referendum Campaign Finance & Political Parties in Europe."
+      #  summary: 130.000 EUR funding for 4 years of PhD research on referendum campaign finance and political parties in Europe.
+      #  start_date: 2022
+      #  end_date: 2026
 
-      - name: Long Stay Travel Grant. Grant V412823N: Ireland 2023.
-        summary: 5.000 EUR funding for 4 months of research stay at Trinity College Dublin, Ireland.
-        issuer: Research Foundation Flanders (FWO)
-        start_date: February 2023
-        end_date: April 2023
+      #- name: "Research Foundation Flanders (FWO) Long Stay Travel Grant. Grant V412823N: Ireland 2023."
+      #  summary: 5.000 EUR funding for 4 months of research stay at Trinity College Dublin, Ireland.
+       # start_date: February 2023
+       # end_date: April 2023
 
     
