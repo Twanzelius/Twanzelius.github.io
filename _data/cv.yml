@@ -3,7 +3,7 @@ cv:
   label: Postdoctoral Researcher
   email: toinepaulissen@kuleuven.be
   location: Leuven, Belgium
-  image: ""
+  image: "prof_pic.jpg"
   summary: Political scientist interested in disinformation, polarization, and electoral behavior.
 
   social_networks:
@@ -59,143 +59,290 @@ cv:
           - Supervised by prof. Dirk De Geest
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Dublin City University School of Law and Government 
+        position: Part-time Lecturer
+        location: Dublin City University, Ireland
+        start_date: 2025
+        end_date: 2026
+        summary: Designed, taught and assessed two undergraduate models within the Economics, Politics and Law (EPL) program.
         highlights:
-          - Relativity
-          - Description 2.
+          - <a href="https://modspec.dcu.ie/registry/module_contents_akari.php?function=2&subcode=POL1050">Money, Power and Democracy</a>
+          - <a href="https://modspec.dcu.ie/registry/module_contents_akari.php?function=2&subcode=POL1036">Comparative European Politics</a>
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: KU Leuven Voting & Democracy Research Group
+        position: Postdoctoral Researcher
+        location: KU Leuven, Belgium
+        start_date: 2025
+        end_date: 2026
         highlights:
-          - Description 1.
-          - Description 2.
+          - Conducted research on effects of referendum campaigns - 1 peer-reviewed publication, 2 in progress
+          - Finished supervision of 3 MSc students, currently supervising an additional 7 MSc students
+          - Collaborated on COST application
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: KU Leuven Voting & Democracy Research Group
+        position: Research Foundation Flanders (FWO) PhD Fellow in Fundamental Research
+        location: KU Leuven, Belgium
+        start_date: 2022
+        end_date: 2025
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - Conducted research on party spending in referendum campaigns - 5 peer-reviewed publications
+          - Supervised 11 MSc students (including 3 mentioned above)
+          - Collaborated on large data collection project regarding referendum campaign finance regulations
+          - (Co-)Authored 5 reports regarding Belgian elections in 2024 (local, regional, federal and European)
+
+      - company: KU Leuven Public Governance Institute
+        position: PhD Researcher and Teaching Assistant
+        location: KU Leuven, Belgium
+        start_date: 2021
+        end_date: 2022
+        highlights:
+          - Conducted research on lobbying and EU politics - 1 peer-reviewed publication, 2 book chapters
+          - Prepared successful funding application for FWO PhD fellowship mentioned above
+          - Provided assistance to courses on academic writing and presenting, European politics, party politics, and introductory courses to political science
+          - Led multiple seminars
+          - Provided editorial assistance on edited volume with Cambridge University Press
+          - Supervised 4 MSc students
+
+    Visiting Positions:
+      - company: School of Politics and International Relations (SPIRe), University College Dublin
+        position: Affiliated Scholar, hosted by Prof. Dr. David Farrell
+        location: Dublin, Ireland
+        start_date: November 2024
+        end_date: October 2025
+
+      - company: Trinity Research in Social Sciences (TRiSS), Trinity College Dublin
+        position: Visiting Scholar, hosted by Prof. Dr. Peter Stone
+        location: Dublin, Ireland
+        start_date: February 2023
+        end_date: May 2023
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: Selected for third cohort of the Europaeum Scholars Programme
         authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+          - "The Europaeum"
+        date: 2022
+        awarder: The Europaeum
+        url: https://www.europaeum.org/scholars-programme
+        summary: The Europaeum Scholars Programme is a a two-year leadership and policy course spread out over eight week-long modules hosted at different top European universities.
 
-      - title: Max Planck Medal
+      - title: Third Laureate of Wilfried Martens Thesis Prize
         authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - "Wilfried Martens Foundation"
+        date: 2021
+        awarder: Wilfried Martens Foundation
+        summary: Thesis prize awarded for the best MA theses in European studies.
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+      Peer Reviewed Journal Articles:
+        - title: What Ends Justify the Means? Explaining Party Campaign Spending in Referendums in Europe
+          authors:
+          - Toine Paulissen
+          - Bart Maddens
+          publisher: European Political Science Review
+          releaseDate: 2026
+          url: https://doi.org/10.1017/S1755773926100356
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+        - title: Why do Parties Participate in Referendum Campaigns? Evidence from Switzerland.
+          authors:
+          - Toine Paulissen
+          publisher: Party Politics
+          releaseDate: 2026
+          url: https://doi.org/10.1177/13540688261431115
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+        - title: Riding the Wave? The Impact of the Russian Invasion on MEP behaviour regarding EU Enlargement to the Western Balkan countries
+          authors:
+          - Lien Jansen
+          - Toine Paulissen
+          - Steven Van Hecke
+          publisher: Journal of European Integration
+          releaseDate: 2026
+          url: https://doi.org/10.1080/07036337.2026.2623429
+
+        - title: Depoliticizing Transnational Cleavage‐Related Issues Through Social Media Advertising: The 2022 Danish Defense Referendum Campaign
+          authors:
+          - Toine Paulissen
+          - Lien Jansen
+          - Steven Van Hecke
+          publisher: Politics and Governance
+          releaseDate: 2025
+          url: https://doi.org/10.17645/pag.9229
+        
+        - title: Power beyond borders? Analysing formal and informal tools of the European Parliament in EU enlargement policy.
+          authors:
+          - Lien Jansen
+          - Toine Paulissen
+          - Steven Van Hecke
+          publisher: Journal of Contemporary European Studies
+          releaseDate: 2025
+          url: https://doi.org/10.1080/14782804.2024.2448257
+
+        - title: Introducing the RefCFRI: A continuous indicator comparing referendum campaign finance regulation in 143 countries
+          authors:
+          - Toine Paulissen
+          - William R. Horncastle
+          publisher: Politics
+          releaseDate: 2024
+          url: https://doi.org/10.1177/02633957241303708
+
+        - title: Direct democracy and party behaviour in the Republic of Ireland: a campaign finance perspective.
+          authors:
+          - Toine Paulissen
+          publisher: Irish Political Studies
+          releaseDate: 2024
+          url: https://doi.org/10.1080/07907184.2024.2371780
+
+        - title: Referendum campaign financing by political parties: the case of the United Kingdom
+          authors:
+          - Toine Paulissen
+          - Bart Maddens
+          publisher: Political Science
+          releaseDate: 2023
+          url: https://doi.org/10.1080/00323187.2023.2238715
+        
+        - title: Individual and collective representation: the organisational form of higher education lobbying in the European Union
+          authors:
+          - Toine Paulissen
+          - Bert Fraussen
+          - Steven Van Hecke
+          publisher: European Journal of Higher Education
+          releaseDate: 2022
+          url: https://doi.org/10.1080/21568235.2022.2105372
+      
+      Book Chapters:
+        - title: The Life and Death of the Spitzenkandidaten: What Role is Left for European Political Parties
+          authors:
+          - Steven Van Hecke
+          - Wouter Wolfs
+          - Toine Paulissen
+          publisher: Palgrave Macmillan
+          collection: Costa & Van Hecke (eds.), The EU Political System After the 2019 European Elections
+          releaseDate: 2023
+          url: https://doi.org/10.1007/978-3-031-12338-2_5
+
+        - title: How Covid-19 Hit Brussels and Beyond: The EU’s Crisis Management Tested by a Pandemic
+          authors:
+          - Steven Van Hecke
+          - Toine Paulissen
+          - Britt Vande Walle
+          publisher: Palgrave Macmillan
+          collection: Costa & Van Hecke (eds.), The EU Political System After the 2019 European Elections
+          releaseDate: 2023
+          url: https://doi.org/10.1007/978-3-031-12338-2_18
+
+      Miscellaneous:
+        - title: Summary: What Ends Justify the Means? Explaining Party Campaign Spending in European Referendums
+          authors:
+          - Toine Paulissen
+          publisher: Politics of the Low Countries
+          releaseDate: 2025
+          url: https://doi.org/10.54195/plc.24497
+
+      Outreach:
+        - title: Why direct democracy is also a stage for political parties to fight for attention
+          authors:
+          - Toine Paulissen
+          publisher: Swissinfo
+          releaseDate: 2026
+          url: https://www.swissinfo.ch/eng/global-elections/why-direct-democracy-is-also-a-stage-for-political-parties-to-fight-for-attention/91066008
+
+        - title: Beeldvorming boven beleid: waarom partijen investeren in referendumcampagnes
+          authors:
+          - Toine Paulissen
+          publisher: KU Leuven Sway: Social Sciences for Society
+          releaseDate: 2025
+          url: https://soc.kuleuven.be/sway/verhalen/beeldvorming-boven-beleid-waarom-partijen-investeren-in-referendumcampagnes
+
+        - title: Referendum Moldavië: zelden zal een overwinning zo als eennederlaag hebben aangevoeld
+          authors:
+          - Toine Paulissen
+          - Steven Van Hecke
+          publisher: Knack
+          releaseDate: 2024
+          url: https://www.knack.be/nieuws/wereld/europa/referendum-moldavie-zelden-zal-overwinning-zo-als-een-nederlaag-hebben-aangevoeld/
+
+        - title: Referenda? Bezint eer gij begint.
+          authors:
+          - Toine Paulissen
+          publisher: De Standaard
+          releaseDate: 2024
+          url: https://www.standaard.be/cnt/dmf20240314_97128710
+
+        - title: Indyref2? Rejoin EU? Consider first reforming regulations on referendum campaign finance.
+          authors:
+          - Toine Paulissen
+          publisher: UKandEU
+          releaseDate: 2023
+          url: https://ukandeu.ac.uk/indyref2-rejoin-eu-consider-first-reforming-regulations-on-referendum-campaign-finance/
+
+        - title: How higher education institutions seek to influence EU policymaking
+          authors:
+          - Toine Paulissen
+          - Bert Fraussen
+          - Steven Van Hecke
+          publisher: LSE European Politics and Policy (EUROPP) Blog 
+          releaseDate: 2022
+          url: https://blogs.lse.ac.uk/europpblog/2022/09/02/how-higher-education-institutions-seek-to-influence-eu-policymaking/
+
+        - title: Orbans referendum is geen democratisch instrument, maar een politiek geladen wapen
+          authors:
+          - Toine Paulissen
+          publisher: Knack 
+          releaseDate: 2021
+          url: https://www.knack.be/nieuws/wereld/europa/orbans-referendum-is-geen-democratisch-instrument-maar-een-politiek-geladen-wapen/
 
     Skills:
-      - name: Physics
-        level: Master
+      - name: Technical Skills
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Programming (R, RStudio), structured framing & thematic analysis, website building, survey design"
+
+      - name: Soft Skills
+        icon: fa-solid fa-hashtag
+        keywords: "project management, leadership, teamwork, writing, public speaking, mentoring, teaching"
 
     Languages:
-      - name: German
-        summary: "Native speaker"
-
       - name: English
-        summary: "Fluent"
+        summary: "near-native"
+
+      - name: Dutch
+        summary: "native"
+
+      - name: French
+        summary: "moderate"
+
+      - name: Spanish
+        summary: "beginner"
 
     Interests:
-      - name: Physics
+      - name: Political Science
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Disinformation; Comparative Politics; Political Communication; Polarization; Political Parties; Political Finance; Campaign Regulations; European Politics; Referendums and Initiatives"
+
+      - name: Others
+        icon: fa-solid fa-tag
+        keywords: "Movies, Baseball, Football, Homelabbing"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+      - name: Survey Design
+        date: 2026
+        issuer: ECPR Online Methods School
+        icon: fa-solid fa-question
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+      - name: Analysis of Complex Survey Data
+        date: 2026
+        issuer: Flanders Training Network for Methodology and Statistics (FLAMES)
+        icon: fa-solid fa-database
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+    Research Funding:
+      - name: PhD Fellowship for Fundamental Research. Grant 1119125N: Referendum Campaign Finance & Political Parties in Europe.
+        summary: 130.000 EUR funding for 4 years of PhD research on referendum campaign finance and political parties in Europe.
+        issuer: Research Foundation Flanders (FWO)
+        start_date: 2022
+        end_date: 2026
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+      - name: Long Stay Travel Grant. Grant V412823N: Ireland 2023.
+        summary: 5.000 EUR funding for 4 months of research stay at Trinity College Dublin, Ireland.
+        issuer: Research Foundation Flanders (FWO)
+        start_date: February 2023
+        end_date: April 2023
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    
