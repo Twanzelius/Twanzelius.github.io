@@ -29,11 +29,11 @@ schedule:
       - name: "Lecture 2 - Comparing Political Democracies: What & Why?"
         url: "/assets/slides/CEP_WhatWhy_Clean.pptx"
       - name: "Lecture 3 - How to do Comparative Politics"
-        url: "/assets/slides/CEP_How_Clean.pptx"
-
-  - week: 3
+        u: 3
     date: Feb 19
-    topic: Data Cleaning and Preprocessing
+   rl: "/assets/slides/CEP_How_Clean.pptx"
+
+  - week topic: Data Cleaning and Preprocessing
     description: Techniques for handling missing values, outliers, and data transformation.
     materials:
       - name: Lecture Notes
