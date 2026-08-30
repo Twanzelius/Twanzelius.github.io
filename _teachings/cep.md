@@ -4,7 +4,7 @@ title: Comparative European Politics
 description: This course looked at European democracies and their institutions, how they differ, how they chave changed and the factors and actors that play a role in this.
 instructor: Dublin City University
 year: 2026
-term: Spring
+term: Spring 2026
 course_id: cep
 schedule:
   - week: 0
@@ -29,47 +29,72 @@ schedule:
       - name: "Lecture 2 - Comparing Political Democracies: What & Why?"
         url: "/assets/slides/CEP_WhatWhy_Clean.pptx"
       - name: "Lecture 3 - How to do Comparative Politics"
-        u: 3
-    date: Feb 19
-   rl: "/assets/slides/CEP_How_Clean.pptx"
+        url: "/assets/slides/CEP_How_Clean.pptx"
 
-  - week topic: Data Cleaning and Preprocessing
-    description: Techniques for handling missing values, outliers, and data transformation.
+  - week: 3
+    date: Jan 26-29
+    topic: Europe and Democracy
+    description: Overview of the conceptual histories of Europe and Democracy, and an introduction to Lijphart's Patterns of Democracy
     materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Coding Lab
-        url: https://github.com/
+      - name: "Readings"
+        url: "/assets/pdf/Readings_EUDEMO.pdf"
+      - name: "Lecture 4 - A History of Europe & Democracy"
+        url: "/assets/slides/CEP_EuropeDemocracy - Clean(1).pptx"
+      - name: "Lecture 5 - Patterns of Democracy in Europe"
+        url: "/assets/slides/CEP_PatternsofDemocracy_clean.pptx"
 
-  - week: 4
-    date: Feb 26
-    topic: Exploratory Data Analysis
-    description: Descriptive statistics, visualization, and pattern discovery.
+  - week: 4-5
+    date: Feb 5-12
+    topic: Peer Review Sessions
+    description: Students provide peer review on the group project of other groups
     materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 2
-        url: /assets/pdf/example_pdf.pdf
+      - name: "One-Pager Form"
+        url: "assets/pdf/OnePager_Form.pdf"
 
-  - week: 5
-    date: Mar 4
-    topic: Statistical Analysis
-    description: Hypothesis testing, confidence intervals, and statistical inference.
+  - week: 6-7
+    date: Feb 16-23
+    topic: Institutions
+    description: Introduction to the comparative study of consitutions, legislatures, and the executive
     materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Review Materials
-        url: /assets/pdf/example_pdf.pdf
+      - name: "Readings"
+        url: "assets/pdf/Readings_Institutions_New.pdf"
+      - name: "Lecture 6 - Constitutions"
+        url: "assets/slides/CEP_Institutions_Constitutions_clean.pptx"
+      - name: "Lecture 7 - Executive"
+        url: "assets/slides/CEP_Institutions_Executive_clean.pptx"
+      - name: "Lecture 8 - Legislature"
+        url: "assets/slides/CEP_Institutions_Legislature_clean.pptx"
 
-  - week: 6
-    date: Mar 11
-    topic: Data Visualization
-    description: Principles and tools for effective data visualization.
+
+  - week: 8-10
+    date: Mar 5-19
+    topic: Ideology and Democratic Competition
+    description: Explores how party systems are a consequence of political culture and ideology, as well as electoral systems
     materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 3
-        url: /assets/pdf/example_pdf.pdf
+      - name: "Readings"
+        url: "assets/pdf/Readings_Democratic Competition.pdf"
+      - name: "Lecture 9 - Voters & Political Culture"
+        url: "assets/slides/CEP_DemocraticCompetition_Voters&Culture_clean.pptx"
+      - name: "Lecture 10 - Party Systems"
+        url: "assets/slides/CEP_DemocraticCompetition_Party Systems - Clean - final.pptx"
+      - name: "Lecture 11 - Electoral Systems"
+        url: "assets/slides/CEP_DemocraticCompetition_Electoral Systems - Clean(2).pptx"
+      - name: "Lecture 12 - Referendums & Party Competition"
+        url: "assets/slides/CEP_DemocraticCompetition_Referendums & Party Competition - clean.pptx"
+
+
+  - week: 11-12
+    date: Mar 23-30
+    topic: Democratic Backsliding
+    description: Discussion of Democratic, Hybrid, and Authoritarian Regimes, and how democratic backsliding happens through the actions of political actors & Voters
+    materials:
+      - name: "Readings"
+        url: "assets/pdf/Readings_Backsliding.pdf"
+      - name: "Lecture 14 - Democratic Backsliding I"
+        url: "assets/slides/CEP_DemocraticBackslidingI - Clean.pptx"
+      - name: "Lecture 15 - Democratic Backsliding II"
+        url: "assets/slides/CEP_DemocraticBackslidingII - Clean.pptx"
+
 ---
 
 ## Course Overview
