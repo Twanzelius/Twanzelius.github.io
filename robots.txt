@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://twanzelios.github.io/sitemap.xml
+Sitemap: https://twanzelius.github.io/sitemap.xml
