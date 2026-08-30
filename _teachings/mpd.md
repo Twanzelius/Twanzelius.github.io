@@ -1,113 +1,90 @@
 ---
 layout: course
 title: Money, Power & Democracy
-description: This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.
+description: This course explores how money, power and democracy are intrinsically linked, and how different polities approach this interchange.
 instructor: Dublin City University
 year: 2025
 term: Fall
-location: Main Campus, Room 301
-time: Tuesdays and Thursdays, 10:00-11:30 AM
-course_id: intro-machine-learning
+course_id: mpd
 schedule:
-  - week: 1
-    date: Sept 5
+  - week: 0
+    date: Sept 8
     topic: Course Introduction
-    description: Overview of machine learning, course structure, and expectations.
+    description: Overview of the module.
     materials:
       - name: Syllabus
-        url: /assets/pdf/example_pdf.pdf
+        url: "assets/pdf/Syllabus_mpd.pdf"
       - name: Slides
-        url: /assets/pdf/example_pdf.pdf
+        url: "assets/pdf/Introduction.slides.pdf"
 
-  - week: 2
-    date: Sept 12
-    topic: Linear Regression
-    description: Introduction to linear regression, gradient descent, and model evaluation.
+  - week: 1-3
+    date: Sept 10 - 24
+    topic: Central Concepts & Theories
+    description: "Introduction to the concepts of and contemporary questions surrounding political finance, lobbying, and corruption, with a seminar on Bekkouche et al. (2022): the Heterogenous Price of a Vote."
     materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 1
-        url: /assets/pdf/example_pdf.pdf
+      - name: "Lecture 1 - What is Money, Power, & Democracy?"
+        url: "assets/pdf/Class 2.Slides.pdf"
+      - name: "Lecture 2 - Political Finance: Spending"
+        url: "assets/pdf/Slides_Class3.pdf"
+      - name: "Lecture 3 - Political Finance: Spending"
+        url: "assets/pdf/Slides_Class3.pdf"
+      - name: "Lecture 4 - Political Finance: Funding"
+        url: "assets/pdf/Class4_slid.pdf"
+      - name: "Lecture 5 - Lobbying Inside Out"
+        url: "assets/pdf/Class 5_slides_clean.pdf"
+      - name: "Lecture 6 - Lobbying and MPD"
+        url: "assets/pdf/Slides_clean_class6.pdf"
+      - name: "Assignment 1 - Bekkouche, Cage & Dewitte (2022). The heterogeneous price of a vote: Evidence from multiparty systems, 1993–2017"
+        url: "assets/pdf/Preparation 1.pdf"
 
-  - week: 3
-    date: Sept 19
-    topic: Classification
-    description: Logistic regression, decision boundaries, and multi-class classification.
+  - week: 4-5
+    date: Sept 29 - Oct 8
+    topic: "Case Study 1: Ireland"
+    description: Application of theories to the case of Ireland, with a simulation exercise on political finance reform.
     materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Coding Lab
-        url: https://github.com/
+      - name: "Lecture 7 - Ireland: Corruption and Reform"
+        url: "assets/pdf/Slides_Clean_class7.pdf"
+      - name: "Lecture 8 - Ireland: Reform & Contemporary MPD"
+        url: "assets/pdf/Slides_Clean_class8.pdf"
+      - name: "Assignment 2 - Simulation of Political Finance Reform"
+        url: "assets/pdf/Preparation_2_Instructions.pdf"
 
-  - week: 4
-    date: Sept 26
-    topic: Decision Trees and Random Forests
-    description: Tree-based methods, ensemble learning, and feature importance.
+  - week: 6-7
+    date: Oct 13 - Nov 3
+    topic: "Case Study 2: Competitive Authoritarian Regime"
+    description: "Application of theories to the case of competitive authoritarian regimes, with a seminar on  Pleines (2019): The Political Role of Business Magnates in Competitive Authoritarian Regimes."
     materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 2
-        url: /assets/pdf/example_pdf.pdf
+      - name: "Lecture 9 - Competitive Authoritarian Regimes"
+        url: "assets/pdf/Slides_clean_class9.pdf"
+      - name: "Lecture 10 - MPD in Competitive Authoritarian Regimes"
+        url: "assets/pdf/Slides_clean_class10.pdf"
+      - name: "Assignment 3 - Pleines (2019): The Political Role of Business Magnates in Competitive Authoritarian Regimes"
+        url: "assets/pdf/Preparation 3.pdf"
 
-  - week: 5
-    date: Oct 3
-    topic: Support Vector Machines
-    description: Margin maximization, kernel methods, and support vectors.
+  - week: 8-10
+    date: Nov 5 - Oct 24
+    topic: "Case Study 3: The United States"
+    description: "Application of theories to the case of the United States, with an exercise on data collection and reporting on OpenSecrets."
     materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Review Materials
-        url: /assets/pdf/example_pdf.pdf
+      - name: "Lecture 11 - Money and Freedom of Speech"
+        url: "assets/pdf/Slides_update.pdf"
+      - name: "Lecture 12 - MPD in Contemporary US"
+        url: "assets/pdf/Slides.pdf"
+      - name: "Assignment 4 - Pleines (2019): The Political Role of Business Magnates in Competitive Authoritarian Regimes"
+        url: "assets/pdf/Preparation 4.pdf"
 
-  - week: 6
-    date: Oct 10
-    topic: Midterm Exam
-    description: Covers weeks 1-5.
-
-  - week: 7
-    date: Oct 17
-    topic: Neural Networks Fundamentals
-    description: Perceptrons, multilayer networks, and backpropagation.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Assignment 3
-        url: /assets/pdf/example_pdf.pdf
-
-  - week: 8
-    date: Oct 24
-    topic: Deep Learning
-    description: Convolutional neural networks, recurrent neural networks, and applications.
-    materials:
-      - name: Lecture Notes
-        url: /assets/pdf/example_pdf.pdf
-      - name: Coding Lab
-        url: https://github.com/
+  
 ---
 
 ## Course Overview
 
-This introductory course on machine learning covers fundamental concepts and algorithms in the field. By the end of this course, students will be able to:
+This course explores how money, power and democracy are intrinsically linked, and how different polities approach this interchange. Students will:
 
-- Understand key machine learning paradigms and concepts
-- Implement basic machine learning algorithms
-- Evaluate and compare model performance
-- Apply machine learning techniques to real-world problems
-
-## Prerequisites
-
-- Basic knowledge of linear algebra and calculus
-- Programming experience in Python
-- Probability and statistics fundamentals
-
-## Textbooks
-
-- Primary: "Machine Learning: A Probabilistic Perspective" by Kevin Murphy
-- Reference: "Pattern Recognition and Machine Learning" by Christopher Bishop
+- Gain insights into how these different approaches translate into benefits and disadvantages for legislators, political elites, interest groups, corporations, and citizens
+- Understand more about how money shapes elections, referendums, and policy outcomes, both in Ireland and  beyond.
 
 ## Grading
 
-- Assignments: 40%
-- Midterm Exam: 20%
-- Final Project: 30%
-- Participation: 10%
+- Written exam: 50%
+- Assignments: 25%
+- Presentation: 25%
