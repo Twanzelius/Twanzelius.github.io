@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://toinepaulissen.com/sitemap.xml
+Sitemap: https://twanzelios.github.io/sitemap.xml
