@@ -7,7 +7,7 @@ subtitle: <a href='https://soc.kuleuven.be/fsw/english/voting-and-democracy/staf
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
     <p>Parkstraat 45 - box 3602 </p>
     <p>3000 Leuven</p>
